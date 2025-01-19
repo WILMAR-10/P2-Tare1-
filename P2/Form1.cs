@@ -29,7 +29,7 @@ namespace P2
         private void InicializarComboBoxFiguras()
         {
             comboBoxSeleccionarFigura.Items.Clear();
-            comboBoxSeleccionarFigura.Items.AddRange(new string[] { "Rectangle", "Triangle", "Circle" });
+            comboBoxSeleccionarFigura.Items.AddRange(new string[] { "Rectangulo", "Triangulo", "Circulo" });
         }
 
         private void InicializarComboBoxProfesores()
@@ -382,7 +382,7 @@ namespace P2
                 return;
             }
 
-            if (figuraSeleccionada != "Circle")
+            if (figuraSeleccionada != "Circilo")
             {
                 if (!double.TryParse(textBoxDimension2.Text, out dimension2) || dimension2 <= 0)
                 {
@@ -394,13 +394,13 @@ namespace P2
             Shape figura;
             switch (figuraSeleccionada)
             {
-                case "Rectangle":
+                case "Rectangulo":
                     figura = new Rectangulo(dimension1, dimension2);
                     break;
-                case "Triangle":
+                case "Triangulo":
                     figura = new Triangulo(dimension1, dimension2);
                     break;
-                case "Circle":
+                case "Circulo":
                     figura = new Circulo(dimension1);
                     break;
                 default:
@@ -423,17 +423,17 @@ namespace P2
 
             switch (shapeSelected)
             {
-                case "Rectangle":
+                case "Rectangulo":
                     pictureBoxFigura.Image = Properties.Resources.RectangleImage;
                     textBoxDimension1.Enabled = true;
                     textBoxDimension2.Enabled = true;
                     break;
-                case "Triangle":
+                case "Triangulo":
                     pictureBoxFigura.Image = Properties.Resources.TriangleImage;
                     textBoxDimension1.Enabled = true;
                     textBoxDimension2.Enabled = true;
                     break;
-                case "Circle":
+                case "Circulo":
                     pictureBoxFigura.Image = Properties.Resources.CircleImage;
                     textBoxDimension1.Enabled = true;
                     textBoxDimension2.Enabled = false;
@@ -466,7 +466,7 @@ namespace P2
                 return;
             }
 
-            if (shapeSelected != "Circle")
+            if (shapeSelected != "Circulo")
             {
                 if (!double.TryParse(textBoxDimension2.Text, out dimension2) || dimension2 <= 0)
                 {
@@ -477,13 +477,13 @@ namespace P2
 
             switch (shapeSelected)
             {
-                case "Rectangle":
+                case "Rectangulo":
                     shape = new Rectangulo(dimension1, dimension2);
                     break;
-                case "Triangle":
+                case "Triangulo":
                     shape = new Triangulo(dimension1, dimension2);
                     break;
-                case "Circle":
+                case "Circulo":
                     shape = new Circulo(dimension1);
                     break;
                 default:
