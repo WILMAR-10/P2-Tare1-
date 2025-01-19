@@ -1,0 +1,12 @@
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.Form1.resources
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\wilma\source\repos\P2\bin\Debug\P2.exe.config
+C:\Users\wilma\source\repos\P2\bin\Debug\P2.exe
+C:\Users\wilma\source\repos\P2\bin\Debug\P2.pdb
+C:\Users\wilma\source\repos\P2\bin\Debug\Guna.UI2.dll
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.csproj.Up2Date
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.exe
+C:\Users\wilma\source\repos\P2\obj\Debug\P2.pdb

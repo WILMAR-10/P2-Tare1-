@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="P2.Clases_Tarea_1.Shape">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Clases_Tarea_1.Rectangulo">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Clases_Tarea_1.Triangulo">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Clases_Tarea_1.Circulo">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Class_Tarea_1.Persona">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\ModeloEscuela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Class_Tarea_1.Estudiante">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\ModeloEscuela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Class_Tarea_1.Profesor">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\ModeloEscuela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Class_Tarea_1.Curso">
+    <Position X="4.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Class Tarea 1\ModeloEscuela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Class_Tarea_1.Clase">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAgAAAAAAAAAgAAYAAAAAAAAAAA=</HashCode>
+      <FileName>Class Tarea 1\ModeloEscuela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P2.Class_Tarea_1.ModeloEscuela">
+    <Position X="6.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAEAAACAABgAAAAAAAAAAgAAYAAAAAACAAAA=</HashCode>
+      <FileName>Class Tarea 1\ModeloEscuela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
